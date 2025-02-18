@@ -32,7 +32,7 @@ export default function() {
           <FaMoon />
       </Button>
       <Link to="/SignIn">
-        <Button className="bg-gradient-to-r from-red-500 to-orange-500 text-white">Sign In</Button>
+        <Button className="bg-gradient-to-r from-red-500 to-orange-500 text-white" outline>Sign In</Button>
       </Link>
      <Navbar.Toggle>
 
